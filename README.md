@@ -24,7 +24,7 @@ Here are a few projects I’d like to highlight:
 - **IAM Solution Design for TechCorp** – Architectural diagrams, code snippets showing user lifecycle, roles, permissions, access control.
 
 ## 📫 How to Reach Me
-- Email: your­email@example.com  
+- Email: harshitsrvastava22@gmail.com
 - LinkedIn: [linkedin.com/in/harshit-srivastava-b33aa1325](https://www.linkedin.com/in/harshit-srivastava-b33aa1325/)  
 - GitHub: [github.com/HarshitSRIVASTAVA00](https://github.com/HarshitSRIVASTAVA00)  
 
