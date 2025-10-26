@@ -11,8 +11,7 @@
 
 ## 🔭 Current Work
 - Tribute Webpage – Dr. A.P.J. Abdul Kalam with animations, quote slider, timeline of achievements.  
-- Black‑Hole Themed Webpage – HD looping background, overlay text ‘ENTER THE BLACK-HOLE’, content section about discovery.  
-- IAM Solution Design – User lifecycle management & access control for TechCorp.
+- Swadeshi Leaerning - teach learn grow
 
 ---
 
