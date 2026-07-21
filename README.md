@@ -10,9 +10,9 @@
 ---
 
 ## 🔭 Current Work
-- Tribute Webpage – Dr. A.P.J. Abdul Kalam with animations, quote slider, timeline of achievements.  
+- Tribute Webpage – Dr. A.P.J. Abdul Kalam 
 - Swadeshi Leaerning - teach learn grow
-
+- Built my own chess engine 
 ---
 
 ## 🛠 Skills
