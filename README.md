@@ -43,12 +43,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Harshit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitSRIVASTAVA00&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitSRIVASTAVA00&layout=compact)
-
----
-
 ## 📫 Contact Me
 - Email: [Harshit Srivastava](srivastavah818@gmail.com) 
 - LinkedIn: [Harshit Srivastava](https://www.linkedin.com/in/harshit-srivastava-b33aa1325/)  
