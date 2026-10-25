@@ -1,55 +1,47 @@
-# Hi there, I’m Harshit Srivastava 👋
+# Hi there, I'm Harshit Srivastava 👋
 
+**B.Tech Computer Science & Engineering | Aspiring AI & Software Engineer**
 
+I am a final-year CSE student and a passionate builder focused on bridging artificial intelligence, full-stack web development, and hardware integration. Whether I am crafting 3D planetary monitoring dashboards, training custom AI engines, or analyzing RF telemetry, I love tackling complex problems with clean, scalable architecture. 
 
-## About Me
-- B.Tech Computer Science & Engineering student passionate about web development, IAM solutions, and algorithmic problem solving.
-- Interested in building projects that combine clean code, architecture, and user experience.
-- Motto: *“Code is like humor. When you have to explain it, it’s bad.”*
+*Motto: "Code is like humor. When you have to explain it, it’s bad."*
 
----
-
-## 🔭 Current Work
-- Tribute Webpage – Dr. A.P.J. Abdul Kalam 
-- Aero-Health
-- Built my own chess engine
-- DOGSTUDIO-CLONE
----
-
-## 🛠 Skills
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Front-End & Back-End
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+### 🚀 What I'm Up To
+*   🌱 **Currently Learning:** Data Structures, 5G Mobility/Signal Analysis, and preparing for GATE CS/DA 2027.
+*   💼 **Experience:** Former Research Associate Intern at BYAMN and Technical Intern (IoT & AI) at Flytium Drones. 
+*   🏆 **Certifications:** Oracle AI Foundations, IBM SkillsBuild Professional Credentials.
 
 ---
 
-## 📂 Featured Projects
-| Project | Description | Demo / Repo |
-|---------|-------------|-------------|
-| Tribute Webpage – Dr. Kalam | Animated webpage with quote slider and timeline | [Repo](https://github.com/HarshitSRIVASTAVA00/abdul-kalam-tribute) |
-| Aero Health | Hero video, overlay text, and discovery section , use of nasa api| [Repo](https://github.com/HarshitSRIVASTAVA00/AeroHEALTH) |
-| CHESS-ENGINE | MY own custom ai which  plays against you | [Repo](https://github.com/HarshitSRIVASTAVA00/CHESS-ENGINE.git) |
-| DOGSTUDIO-CLONE | Clone of award winning website dogstudio.co | [Repo](https://github.com/HarshitSRIVASTAVA00/DOGSTUDIO-CLONE.git) |
-| TRACKER | Real time device tracker | [Repo](https://github.com/HarshitSRIVASTAVA00/TRACKER) |
+### 🛠️ Tech Stack & Tools
 
-
----
-
-## 📫 Contact Me
-- Email: [Harshit Srivastava](srivastavah818@gmail.com) 
-- LinkedIn: [Harshit Srivastava](https://www.linkedin.com/in/harshit-srivastava-b33aa1325/)  
-- GitHub: [HarshitSRIVASTAVA00](https://github.com/HarshitSRIVASTAVA00)  
+*   **Languages:** Python, Java, JavaScript (ES6+)
+*   **Frontend:** React, HTML5, CSS3, Three.js, Chart.js
+*   **Backend & APIs:** Node.js, REST APIs, Python `http.server`
+*   **AI, ML & Vision:** OpenCV, MediaPipe, PyTorch, TensorFlow, NLP routing
+*   **Hardware & IoT:** Arduino, ESP32, MPU6050, L298N motor drivers
+*   **Tools:** Git, GitHub, Vercel, Wireshark/PCAP Analysis
 
 ---
 
-> ⚡ Fun Fact: Late-night debugging sessions often lead to unexpected breakthroughs… and lots of coffee.
+### 📂 Featured Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **[AeroHealth Ultimate]** | **Space-Grade Air Quality Intelligence:** A complex web app featuring a custom 3D NASA Globe (Three.js), client-side NLP AI routing, and multi-tier predictive AQI forecasting. | [Live Demo](https://harshitsrivastava00.github.io/AeroHealth/) / [Repo](https://github.com/HarshitSRIVASTAVA00/AeroHealth) |
+| **[Smart Price Hunter]** | **AI-Powered E-commerce Intelligence:** Web application utilizing simulated AI agents and Chart.js to track, compare, and analyze e-commerce deal scores in real-time. | [Live Demo](https://harshitsrivastava00.github.io/PRICE-HUNTER/) / [Repo](https://github.com/HarshitSRIVASTAVA00/PRICE-HUNTER) |
+| **[Custom Chess Engine]** | **Algorithmic Problem Solving:** A fully playable custom artificial intelligence engine programmed to evaluate board states and compete against human players. | [Live Demo](https://harshitsrivastava00.itch.io/noobai) / [Repo](https://github.com/HarshitSRIVASTAVA00/CHESS-ENGINE) |
+| **[Gesture-Controlled Rover]** | **Hardware/IoT Integration:** A physical robotics project integrating ESP32, MPU6050 sensors, and Arduino C++ for real-time telemetry and physical execution. | [Link](https://lnkd.in/p/gSauNVw6) |
+| **[Tracker]** | **Real-Time Web Application:** A live device tracking application successfully imported and deployed on Railway. | [Live Demo](https://tracker-production-38e5.up.railway.app/) / [Repo](https://github.com/HarshitSRIVASTAVA00/TRACKER) |
+| **[Dr. A.P.J. Abdul Kalam]** | **My First Project:** A semantic HTML5/CSS3 tribute page marking the beginning of my web development journey. | [Live Demo](https://harshitsrivastava00.github.io/abdul-kalam-tribute/) / [Repo](https://github.com/HarshitSRIVASTAVA00/abdul-kalam-tribute) |
+
+---
+
+### 📫 Let's Connect!
+
+I am always open to discussing system architecture, AI implementations, or collaborating on innovative hackathon builds.
+
+*   **Email:** [Email](harshitsrvastava22@gmail.com)
+*   **LinkedIn:** [Linkedin](https://www.linkedin.com/in/harshitsrivastava0/)
+
+⚡ *Fun Fact: Late-night debugging sessions often lead to unexpected breakthroughs... and lots of coffee.*
