@@ -36,7 +36,7 @@
 ## 📂 Featured Projects
 | Project | Description | Demo / Repo |
 |---------|-------------|-------------|
-| Tribute Webpage – Dr. Kalam | Animated webpage with quote slider and timeline | [Repo](https://github.com/HarshitSRIVASTAVA00/tribute-webpage) |
+| Tribute Webpage – Dr. Kalam | Animated webpage with quote slider and timeline | [Repo](https://github.com/HarshitSRIVASTAVA00/abdul-kalam-tribute) |
 | Aero Health | Hero video, overlay text, and discovery section , use of nasa api| [Repo](https://github.com/HarshitSRIVASTAVA00/AeroHEALTH) |
 | CHESS-ENGINE | MY own custom ai which  plays against you | [Repo](https://github.com/HarshitSRIVASTAVA00/CHESS-ENGINE.git) |
 | DOGSTUDIO-CLONE | Clone of award winning website dogstudio.co | [Repo](https://github.com/HarshitSRIVASTAVA00/DOGSTUDIO-CLONE.git) |
